@@ -1,0 +1,17 @@
+h1{
+	color: red; /* mets le titre principal en rouge*/
+}
+
+h2{
+	color : green; /* mets le titre secondaire en vert*/
+}
+
+p{
+	color : blue; /* mets le paragraphe en bleu*/
+}
+
+.p24{
+	color:orange; /*Applique une couleur de texte orange à tous les éléments ayant cette classe*/
+}
+
+

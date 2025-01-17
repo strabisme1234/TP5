@@ -1,0 +1,19 @@
+h1 {/* - Style pour les titres de niveau 1 (h1)  */
+    font-family: "Arial Black"; /* - Utilise la police "Arial Black"  */
+    text-align: center; /* - Centre le texte horizontalement."  */
+    font-size: 2em;  /* - Définit une taille de police de 2em."  */
+    color: red;/* -Applique une couleur rouge au texte."  */
+}
+
+h2 {/* -Style pour les titres de niveau 2 (h2) :  */
+    font-family: "Arial";/* - Utilise la police "Arial".  */
+    font-size: 1.4em;/* -Définit une taille de police de 1.4em.  */
+    color: blue;/* -Applique une couleur bleue au texte.  */
+    font-style: italic;/* - Définit le texte en italique  */
+}
+
+p {/* -Style pour les titres de niveau 2 (h2) :  */
+    color: black;/* -Style pour les titres de niveau 2 (h2) :  */
+    font-family: "Verdana";/* -Style pour les titres de niveau 2 (h2) :  */
+    font-size: 1em; /* Correction ici */
+}
